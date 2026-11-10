@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/indexmap-rs/indexmap/commit/41a870887c4c77adf665886e63df08f406bfe37a",
       "git:hexsha": "41a870887c4c77adf665886e63df08f406bfe37a",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.14.2"
     },
     {

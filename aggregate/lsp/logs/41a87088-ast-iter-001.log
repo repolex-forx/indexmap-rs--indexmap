@@ -1,0 +1,7 @@
+[2026-11-10T00:56:36Z] === AST ITERATION 1 START | repo=indexmap-rs/indexmap sha=41a87088 ===
+[2026-11-10T00:56:36Z] [iter=1] PHASE START: ast repo=indexmap-rs/indexmap sha=41a87088
+[2026-11-10T00:56:36Z] [iter=1] Building AST aggregate chunks
+[2026-11-10T00:57:42Z] [iter=1] AST chunks built count=1 triples=598093
+[2026-11-10T00:57:42Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/41a870887c4c77adf665886e63df08f406bfe37a/.complete
+[2026-11-10T00:57:42Z] [iter=1] PHASE END: ast elapsed_s=65 elapsed_min=1.1
+[2026-11-10T00:57:42Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
